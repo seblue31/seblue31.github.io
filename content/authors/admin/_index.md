@@ -18,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Historien, Ingénieur de recherche CNRS
+role: Historien, Ingénieur de recherche 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
