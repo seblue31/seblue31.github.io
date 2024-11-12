@@ -22,7 +22,7 @@ role: Historien, Ingénieur de recherche CNRS
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CNRSOpenAI
+  - name: CNRS
     url: https://www.inshs.cnrs.fr/fr
 
 # Social network links
@@ -39,6 +39,10 @@ profiles:
     url: https://www.linkedin.com/in/s%C3%A9bastien-poublanc-71a916b6/?originalSubdomain=fr
   - icon: academicons/hal-square
     url: https://cv.hal.science/sebastien-poublanc
+  - icon: academicons/openedition-square
+    url: https://dighistory.hypotheses.org/
+  - icon: academicons/openedition-square
+    url: https://foret.hypotheses.org/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4234-7240
 
@@ -50,15 +54,15 @@ interests:
   - Instrumentation en histoire
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: Doctorat (histoire) 
+    institution: Université Toulouse Jean Jaurès
+    date_start: 
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://theses.hal.science/tel-02376915'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
