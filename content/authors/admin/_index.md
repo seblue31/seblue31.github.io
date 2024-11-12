@@ -4,8 +4,8 @@ title: Sébastien Poublanc
 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sébastien
+last_name: Poublanc
 
 # Status emoji
 status:
@@ -18,36 +18,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Historien, Ingénieur de recherche CNRS
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CNRSOpenAI
+    url: https://www.inshs.cnrs.fr/fr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'sebastien.poublanc@cnrs.fr'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/historienumeriq
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/seblue31/seblue31
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/s%C3%A9bastien-poublanc-71a916b6/?originalSubdomain=fr
+  - icon: academicons/hal-square
+    url: https://cv.hal.science/sebastien-poublanc
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4234-7240
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Histoire de l'environnement
+  - Histoire foresitère
+  - Humanités numériques
+  - Numérisation du métier d'historien
+  - Instrumentation en histoire
 
 education:
   - area: PhD Artificial Intelligence
