@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Je suis historien moderniste et ingénieur de recherche en production, traitement et analyse de données au laboratoire FRAMESPA (https://framespa.univ-tlse2.fr/) (CNRS et Université de Toulouse Jean Jaurès). 
+Je suis historien moderniste et ingénieur de recherche en production, traitement et analyse de données au laboratoire FRAMESPA (CNRS et Université de Toulouse Jean Jaurès). 
